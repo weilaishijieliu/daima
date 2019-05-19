@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-201902241915",
+    "children" : [ {
+      "name" : "8384-MainThread",
+      "children" : [ {
+        "name" : "E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_tel[args0]",
+        "uid" : "62d55b900fbb6fb4",
+        "parentUid" : "08dc0d50541f8645e3c57a4ec0a1c0b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556592249936,
+          "stop" : 1556592285742,
+          "duration" : 35806
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_email[args0]",
+        "uid" : "1ff4522a46bbea06",
+        "parentUid" : "08dc0d50541f8645e3c57a4ec0a1c0b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556592289051,
+          "stop" : 1556592326213,
+          "duration" : 37162
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "08dc0d50541f8645e3c57a4ec0a1c0b1"
+    } ],
+    "uid" : "b7dbe70df265a3456eeb28297af7b76e"
+  } ]
+}

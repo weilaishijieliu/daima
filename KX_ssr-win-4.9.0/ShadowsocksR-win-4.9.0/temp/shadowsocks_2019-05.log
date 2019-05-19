@@ -1,0 +1,1602 @@
+[2019-05-12 10:32:07] ShadowsocksR started on port 1080
+[2019-05-12 10:32:16] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:16] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:17] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:17] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-12 10:32:17] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:17] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:17] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:18] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-12 10:32:18] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:18] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:18] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:18] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-12 10:32:18] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:18] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:19] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:32:19] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-12 10:32:19] [Error] connect to update server error
+[2019-05-12 10:32:27] [Info] Direct connect s.f.360.cn:80
+[2019-05-12 10:32:27] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:32:27] [Info] Direct connect zip.update.360safe.com:80
+[2019-05-12 10:32:27] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:32:28] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:32:28] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:32:29] [Info] Direct connect c.skconf.f.360.cn:80
+[2019-05-12 10:33:12] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:33:12] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:33:15] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:16] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:33:21] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:33:21] [Info] Connect t:443
+[2019-05-12 10:33:21] [Info] Connect t:443
+[2019-05-12 10:33:21] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:33:21] [Info] Connect t:443
+[2019-05-12 10:33:21] [Info] Connect t:443
+[2019-05-12 10:33:21] [Info] Connect t:443
+[2019-05-12 10:33:21] [Info] Connect t:443
+[2019-05-12 10:33:21] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:21] [Info] Disconnect t:443
+[2019-05-12 10:33:21] [Info] Disconnect t:443
+[2019-05-12 10:33:22] [Info] Connect t:443
+[2019-05-12 10:33:22] [Info] Connect t:443
+[2019-05-12 10:33:22] [Info] Connect t:443
+[2019-05-12 10:33:22] [Info] Connect t:443
+[2019-05-12 10:33:22] [Info] Connect t:443
+[2019-05-12 10:33:22] [Info] Connect t:443
+[2019-05-12 10:33:22] [Info] Disconnect t:443
+[2019-05-12 10:33:22] [Info] Disconnect t:443
+[2019-05-12 10:33:23] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:23] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:24] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:24] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:26] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:27] [Info] Connect t:443
+[2019-05-12 10:33:27] [Info] Connect t:443
+[2019-05-12 10:33:28] [Info] Connect t:443
+[2019-05-12 10:33:28] [Info] Connect t:443
+[2019-05-12 10:33:28] [Info] Connect t:443
+[2019-05-12 10:33:28] [Info] Connect t:443
+[2019-05-12 10:33:28] [Info] Disconnect t:443
+[2019-05-12 10:33:28] [Info] Disconnect t:443
+[2019-05-12 10:33:28] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:28] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:29] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:31] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:31] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:31] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:32] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:32] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:32] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:39] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:39] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:39] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:41] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:41] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:46] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:46] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:46] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:47] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:48] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:48] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:33:48] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:33:48] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:33:48] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:33:48] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:33:48] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:33:49] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:33:49] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:33:49] [Info] Disconnect get.freeshadowsocks.me:443
+[2019-05-12 10:33:49] [Info] Disconnect get.freeshadowsocks.me:443
+[2019-05-12 10:34:19] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:34:19] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:34:19] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:34:19] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:34:19] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:34:19] [Info] Connect get.freeshadowsocks.me:443
+[2019-05-12 10:34:19] [Info] Disconnect get.freeshadowsocks.me:443
+[2019-05-12 10:34:19] [Info] Disconnect get.freeshadowsocks.me:443
+[2019-05-12 10:35:20] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:36:05] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:36:05] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:36:10] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:36:29] [Info] Direct connect s.f.360.cn:80
+[2019-05-12 10:36:37] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 10:36:37] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 10:36:38] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 10:36:41] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 10:36:42] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 10:36:44] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:36:49] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:36:52] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:36:56] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:36:57] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-05-12 10:37:04] [Info] Connect v20.events.data.microsoft.com:443
+[2019-05-12 10:37:06] [Info] Disconnect v20.events.data.microsoft.com:443
+[2019-05-12 10:37:10] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:37:11] [Info] Direct connect clientservices.googleapis.com:443
+[2019-05-12 10:37:11] [Info] Connect clients2.google.com:443
+[2019-05-12 10:37:11] [Info] Connect accounts.google.com:443
+[2019-05-12 10:37:12] [Info] Direct connect redirector.gvt1.com:80
+[2019-05-12 10:37:12] [Info] Direct connect r8---sn-2x3een7r.gvt1.com:80
+[2019-05-12 10:37:13] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:13] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:13] [Info] Direct connect redirector.gvt1.com:80
+[2019-05-12 10:37:13] [Info] Direct connect r11---sn-2x3eln7d.gvt1.com:80
+[2019-05-12 10:37:13] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:14] [Info] Direct connect qex.conf.f.360.cn:80
+[2019-05-12 10:37:15] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:15] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:15] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:37:16] [Info] Connect raw.githubusercontent.com:443
+[2019-05-12 10:37:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:37:18] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:18] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:18] [Info] Direct connect redirector.gvt1.com:80
+[2019-05-12 10:37:18] [Info] Direct connect r11---sn-2x3eln7d.gvt1.com:80
+[2019-05-12 10:37:18] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:19] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:19] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:37:19] [Info] Connect www.googleapis.com:443
+[2019-05-12 10:37:19] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:20] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:21] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-12 10:37:21] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-12 10:37:21] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:21] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:22] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:22] [Info] Connect iecvlist.microsoft.com:443
+[2019-05-12 10:37:22] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:23] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:23] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:37:23] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:23] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:23] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:24] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:24] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:25] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:25] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:25] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:26] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:26] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:26] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:27] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:27] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:27] [Debug] DNS query fail: zdhcqxrtgj
+[2019-05-12 10:37:27] [Info] Connect zdhcqxrtgj:80
+[2019-05-12 10:37:27] [Debug] DNS query fail: aqmdmrlonw
+[2019-05-12 10:37:27] [Info] Connect aqmdmrlonw:80
+[2019-05-12 10:37:27] [Debug] DNS query fail: fybahhebmazwg
+[2019-05-12 10:37:27] [Info] Connect fybahhebmazwg:80
+[2019-05-12 10:37:27] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:28] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:28] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:28] [Info] Disconnect zdhcqxrtgj:80
+[2019-05-12 10:37:28] [Info] Disconnect fybahhebmazwg:80
+[2019-05-12 10:37:28] [Info] Disconnect aqmdmrlonw:80
+[2019-05-12 10:37:29] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:29] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:29] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:30] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:31] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:31] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:31] [Info] Direct connect 1.192.137.248:80
+[2019-05-12 10:37:33] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:33] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:33] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:33] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:34] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:34] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:34] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:35] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:37:35] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:37:35] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:38] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:38] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:38] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:38] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:38] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:38] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:38] [Info] Connect cdn.popt.in:443
+[2019-05-12 10:37:38] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:38] [Info] Connect cdn.popt.in:443
+[2019-05-12 10:37:39] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:39] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:39] [Info] Direct connect fonts.googleapis.com:443
+[2019-05-12 10:37:39] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:39] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:39] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:39] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-12 10:37:40] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:40] [Info] Connect resources.infolinks.com:80
+[2019-05-12 10:37:40] [Info] Connect cdn.popcash.net:80
+[2019-05-12 10:37:40] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:40] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:40] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:42] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:42] [Info] Disconnect resources.infolinks.com:80
+[2019-05-12 10:37:42] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:42] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:42] [Info] Connect resources.infolinks.com:80
+[2019-05-12 10:37:42] [Info] Connect ajax.googleapis.com:443
+[2019-05-12 10:37:42] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:43] [Info] Connect router.infolinks.com:443
+[2019-05-12 10:37:43] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:37:43] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:44] [Info] Connect ib.adnxs.com:443
+[2019-05-12 10:37:44] [Info] Connect ib.adnxs.com:443
+[2019-05-12 10:37:44] [Info] Connect sync.go.sonobi.com:443
+[2019-05-12 10:37:44] [Info] Connect ssc-cms.33across.com:443
+[2019-05-12 10:37:44] [Info] Disconnect cdn.popcash.net:80
+[2019-05-12 10:37:44] [Info] Connect de.tynt.com:443
+[2019-05-12 10:37:44] [Info] Connect ads.pubmatic.com:443
+[2019-05-12 10:37:44] [Info] Connect ads.pubmatic.com:443
+[2019-05-12 10:37:45] [Info] Connect dcba.popcash.net:443
+[2019-05-12 10:37:45] [Info] Connect x.bidswitch.net:443
+[2019-05-12 10:37:45] [Info] Connect secure-assets.rubiconproject.com:443
+[2019-05-12 10:37:45] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:46] [Info] Connect image6.pubmatic.com:443
+[2019-05-12 10:37:46] [Info] Direct connect translate.googleapis.com:443
+[2019-05-12 10:37:46] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:46] [Info] Connect sync.mathtag.com:443
+[2019-05-12 10:37:46] [Debug] DNS query fail: b1sync.zemanta.com
+[2019-05-12 10:37:46] [Info] Connect b1sync.zemanta.com:443
+[2019-05-12 10:37:46] [Info] Connect display.popt.in:443
+[2019-05-12 10:37:46] [Info] Connect s.cpx.to:443
+[2019-05-12 10:37:47] [Info] Connect us-u.openx.net:443
+[2019-05-12 10:37:47] [Info] Connect pixel-sync.sitescout.com:443
+[2019-05-12 10:37:47] [Info] Connect sync.mathtag.com:443
+[2019-05-12 10:37:47] [Info] Connect p.adsymptotic.com:443
+[2019-05-12 10:37:47] [Info] Connect sync.mathtag.com:443
+[2019-05-12 10:37:47] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-05-12 10:37:47] [Info] Connect idsync.rlcdn.com:443
+[2019-05-12 10:37:47] [Info] Disconnect ads.pubmatic.com:443
+[2019-05-12 10:37:47] [Info] Disconnect ads.pubmatic.com:443
+[2019-05-12 10:37:47] [Info] Disconnect ib.adnxs.com:443
+[2019-05-12 10:37:47] [Info] Disconnect image6.pubmatic.com:443
+[2019-05-12 10:37:47] [Info] Disconnect sync.go.sonobi.com:443
+[2019-05-12 10:37:47] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:37:47] [Info] Disconnect dcba.popcash.net:443
+[2019-05-12 10:37:47] [Info] Connect ib.adnxs.com:443
+[2019-05-12 10:37:47] [Info] Disconnect www.googleapis.com:443
+[2019-05-12 10:37:47] [Info] Disconnect accounts.google.com:443
+[2019-05-12 10:37:47] [Info] Connect sync-tm.everesttech.net:443
+[2019-05-12 10:37:47] [Info] Direct connect match.adsrvr.org:443
+[2019-05-12 10:37:47] [Info] Connect ad.turn.com:443
+[2019-05-12 10:37:47] [Info] Connect pixel-sync.sitescout.com:443
+[2019-05-12 10:37:47] [Info] Connect pixel.quantserve.com:443
+[2019-05-12 10:37:47] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2019-05-12 10:37:47] [Info] Disconnect clients2.google.com:443
+[2019-05-12 10:37:47] [Info] Disconnect cdn.popt.in:443
+[2019-05-12 10:37:47] [Info] Disconnect ajax.googleapis.com:443
+[2019-05-12 10:37:47] [Info] Disconnect de.tynt.com:443
+[2019-05-12 10:37:47] [Info] Disconnect ssc-cms.33across.com:443
+[2019-05-12 10:37:47] [Info] Connect x.bidswitch.net:443
+[2019-05-12 10:37:47] [Info] Disconnect ib.adnxs.com:443
+[2019-05-12 10:37:47] [Info] Disconnect router.infolinks.com:443
+[2019-05-12 10:37:47] [Info] Disconnect display.popt.in:443
+[2019-05-12 10:37:48] [Info] Connect pmp.mxptint.net:443
+[2019-05-12 10:37:48] [Info] Connect ads.yahoo.com:443
+[2019-05-12 10:37:48] [Info] Disconnect us-u.openx.net:443
+[2019-05-12 10:37:48] [Info] Disconnect ib.adnxs.com:443
+[2019-05-12 10:37:48] [Info] Connect um.simpli.fi:443
+[2019-05-12 10:37:48] [Info] Connect pubmatic-match.dotomi.com:443
+[2019-05-12 10:37:48] [Info] Disconnect b1sync.zemanta.com:443
+[2019-05-12 10:37:48] [Info] Disconnect sync.mathtag.com:443
+[2019-05-12 10:37:48] [Info] Disconnect x.bidswitch.net:443
+[2019-05-12 10:37:48] [Info] Disconnect sync.mathtag.com:443
+[2019-05-12 10:37:48] [Info] Disconnect idsync.rlcdn.com:443
+[2019-05-12 10:37:48] [Info] Connect dis.criteo.com:443
+[2019-05-12 10:37:48] [Info] Connect ads.pubmatic.com:443
+[2019-05-12 10:37:48] [Info] Disconnect p.adsymptotic.com:443
+[2019-05-12 10:37:48] [Info] Disconnect pixel-sync.sitescout.com:443
+[2019-05-12 10:37:48] [Info] Disconnect x.bidswitch.net:443
+[2019-05-12 10:37:48] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-05-12 10:37:48] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2019-05-12 10:37:48] [Info] Disconnect pixel-sync.sitescout.com:443
+[2019-05-12 10:37:48] [Info] Connect match.prod.bidr.io:443
+[2019-05-12 10:37:48] [Info] Disconnect sync.mathtag.com:443
+[2019-05-12 10:37:48] [Info] Disconnect pixel.quantserve.com:443
+[2019-05-12 10:37:48] [Info] Connect pubmatic2waycm-atl.netmng.com:443
+[2019-05-12 10:37:48] [Info] Connect us-u.openx.net:443
+[2019-05-12 10:37:48] [Info] Connect sync.1rx.io:443
+[2019-05-12 10:37:49] [Info] Connect cm.eyereturn.com:443
+[2019-05-12 10:37:49] [Info] Connect pubmatic-match.dotomi.com:443
+[2019-05-12 10:37:49] [Info] Disconnect secure-assets.rubiconproject.com:443
+[2019-05-12 10:37:49] [Info] Disconnect ads.yahoo.com:443
+[2019-05-12 10:37:49] [Info] Connect idsync.rlcdn.com:443
+[2019-05-12 10:37:49] [Info] Connect px.owneriq.net:443
+[2019-05-12 10:37:49] [Info] Disconnect ads.pubmatic.com:443
+[2019-05-12 10:37:49] [Info] Connect trc.taboola.com:443
+[2019-05-12 10:37:49] [Info] Connect p.adsymptotic.com:443
+[2019-05-12 10:37:49] [Info] Connect sync-tm.everesttech.net:443
+[2019-05-12 10:37:49] [Info] Disconnect s.cpx.to:443
+[2019-05-12 10:37:49] [Info] Disconnect us-u.openx.net:443
+[2019-05-12 10:37:50] [Info] Disconnect pubmatic2waycm-atl.netmng.com:443
+[2019-05-12 10:37:50] [Info] Disconnect cm.eyereturn.com:443
+[2019-05-12 10:37:50] [Info] Disconnect idsync.rlcdn.com:443
+[2019-05-12 10:37:50] [Info] Disconnect trc.taboola.com:443
+[2019-05-12 10:37:50] [Info] Disconnect pubmatic-match.dotomi.com:443
+[2019-05-12 10:37:50] [Info] Disconnect p.adsymptotic.com:443
+[2019-05-12 10:37:51] [Info] Disconnect ad.turn.com:443
+[2019-05-12 10:37:51] [Info] Disconnect pmp.mxptint.net:443
+[2019-05-12 10:37:51] [Info] Disconnect match.prod.bidr.io:443
+[2019-05-12 10:37:51] [Info] Disconnect dis.criteo.com:443
+[2019-05-12 10:37:51] [Info] Disconnect px.owneriq.net:443
+[2019-05-12 10:37:51] [Info] Disconnect resources.infolinks.com:80
+[2019-05-12 10:37:51] [Info] Connect bsw.digitru.st:443
+[2019-05-12 10:37:51] [Info] Connect image2.pubmatic.com:443
+[2019-05-12 10:37:51] [Info] Connect cms-xch.33across.com:443
+[2019-05-12 10:37:51] [Info] Connect cms-xch.33across.com:443
+[2019-05-12 10:37:51] [Info] Connect image2.pubmatic.com:443
+[2019-05-12 10:37:52] [Info] Disconnect um.simpli.fi:443
+[2019-05-12 10:37:52] [Info] Connect image2.pubmatic.com:443
+[2019-05-12 10:37:52] [Info] Disconnect sync.1rx.io:443
+[2019-05-12 10:37:52] [Info] Connect image4.pubmatic.com:443
+[2019-05-12 10:37:52] [Info] Connect ads.pubmatic.com:443
+[2019-05-12 10:37:52] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:52] [Info] Connect um.simpli.fi:443
+[2019-05-12 10:37:52] [Info] Connect ad.turn.com:443
+[2019-05-12 10:37:52] [Info] Connect image2.pubmatic.com:443
+[2019-05-12 10:37:52] [Info] Connect pm.w55c.net:443
+[2019-05-12 10:37:52] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-05-12 10:37:52] [Info] Connect r.254a.com:443
+[2019-05-12 10:37:52] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:52] [Info] Connect cms-xch.33across.com:443
+[2019-05-12 10:37:52] [Info] Disconnect um.simpli.fi:443
+[2019-05-12 10:37:52] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Direct connect match.adsrvr.org:443
+[2019-05-12 10:37:53] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Connect match.prod.bidr.io:443
+[2019-05-12 10:37:53] [Info] Connect sync-tm.everesttech.net:443
+[2019-05-12 10:37:53] [Info] Connect px.owneriq.net:443
+[2019-05-12 10:37:53] [Info] Disconnect image2.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Connect sync-tm.everesttech.net:443
+[2019-05-12 10:37:53] [Info] Connect router.infolinks.com:80
+[2019-05-12 10:37:53] [Info] Connect image2.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Connect loadm.exelator.com:443
+[2019-05-12 10:37:53] [Info] Connect image4.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Disconnect image2.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Direct connect match.adsrvr.org:443
+[2019-05-12 10:37:53] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:53] [Info] Connect cms-xch.33across.com:443
+[2019-05-12 10:37:53] [Info] Connect match.taboola.com:443
+[2019-05-12 10:37:53] [Info] Disconnect ad.turn.com:443
+[2019-05-12 10:37:53] [Info] Connect p.rfihub.com:443
+[2019-05-12 10:37:53] [Info] Disconnect bsw.digitru.st:443
+[2019-05-12 10:37:53] [Info] Disconnect image4.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Connect token.rubiconproject.com:443
+[2019-05-12 10:37:53] [Info] Connect pixel-sync.sitescout.com:443
+[2019-05-12 10:37:53] [Info] Disconnect cms-xch.33across.com:443
+[2019-05-12 10:37:53] [Info] Disconnect image2.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Disconnect cms-xch.33across.com:443
+[2019-05-12 10:37:53] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-05-12 10:37:53] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2019-05-12 10:37:53] [Info] Connect pubmatic-match.dotomi.com:443
+[2019-05-12 10:37:53] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:37:53] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:37:54] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:37:54] [Info] Disconnect pm.w55c.net:443
+[2019-05-12 10:37:54] [Info] Disconnect r.254a.com:443
+[2019-05-12 10:37:54] [Info] Disconnect image2.pubmatic.com:443
+[2019-05-12 10:37:54] [Info] Disconnect match.prod.bidr.io:443
+[2019-05-12 10:37:54] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-05-12 10:37:54] [Info] Connect ps.popcash.net:80
+[2019-05-12 10:37:54] [Info] Disconnect cms-xch.33across.com:443
+[2019-05-12 10:37:54] [Info] Disconnect router.infolinks.com:80
+[2019-05-12 10:37:54] [Info] Disconnect image4.pubmatic.com:443
+[2019-05-12 10:37:54] [Info] Connect us-west-sync.bidswitch.net:443
+[2019-05-12 10:37:54] [Info] Disconnect loadm.exelator.com:443
+[2019-05-12 10:37:54] [Info] Connect pippio.com:443
+[2019-05-12 10:37:54] [Info] Connect pmp.mxptint.net:443
+[2019-05-12 10:37:54] [Info] Connect match.rundsp.com:443
+[2019-05-12 10:37:54] [Info] Connect sync.mathtag.com:443
+[2019-05-12 10:37:54] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:54] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-05-12 10:37:54] [Info] Disconnect ads.pubmatic.com:443
+[2019-05-12 10:37:54] [Info] Connect r.254a.com:443
+[2019-05-12 10:37:54] [Info] Connect us-u.openx.net:443
+[2019-05-12 10:37:54] [Info] Disconnect match.taboola.com:443
+[2019-05-12 10:37:54] [Info] Disconnect pixel-sync.sitescout.com:443
+[2019-05-12 10:37:54] [Info] Disconnect image2.pubmatic.com:443
+[2019-05-12 10:37:54] [Info] Connect us-u.openx.net:443
+[2019-05-12 10:37:54] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-05-12 10:37:54] [Info] Connect p.adsymptotic.com:443
+[2019-05-12 10:37:55] [Info] Disconnect px.owneriq.net:443
+[2019-05-12 10:37:55] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:55] [Info] Connect rtb.gumgum.com:443
+[2019-05-12 10:37:55] [Debug] DNS query fail: b1sync.zemanta.com
+[2019-05-12 10:37:55] [Info] Connect b1sync.zemanta.com:443
+[2019-05-12 10:37:55] [Info] Connect rtb.openx.net:443
+[2019-05-12 10:37:55] [Info] Connect simage4.pubmatic.com:443
+[2019-05-12 10:37:55] [Info] Connect loadm.exelator.com:443
+[2019-05-12 10:37:55] [Info] Disconnect us-west-sync.bidswitch.net:443
+[2019-05-12 10:37:55] [Info] Connect image6.pubmatic.com:443
+[2019-05-12 10:37:55] [Info] Connect us-u.openx.net:443
+[2019-05-12 10:37:55] [Info] Disconnect us-u.openx.net:443
+[2019-05-12 10:37:55] [Info] Connect us-u.openx.net:443
+[2019-05-12 10:37:55] [Info] Connect match.rundsp.com:443
+[2019-05-12 10:37:55] [Info] Connect sync.ipredictive.com:443
+[2019-05-12 10:37:55] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:55] [Info] Disconnect ps.popcash.net:80
+[2019-05-12 10:37:55] [Info] Disconnect r.254a.com:443
+[2019-05-12 10:37:55] [Info] Connect match.prod.bidr.io:443
+[2019-05-12 10:37:55] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:37:55] [Info] Connect ps.popcash.net:80
+[2019-05-12 10:37:55] [Info] Connect rt3030.infolinks.com:80
+[2019-05-12 10:37:55] [Info] Disconnect us-u.openx.net:443
+[2019-05-12 10:37:55] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-12 10:37:56] [Info] Connect dcba.popcash.net:443
+[2019-05-12 10:37:56] [Info] Disconnect b1sync.zemanta.com:443
+[2019-05-12 10:37:56] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:56] [Info] Connect display.popt.in:443
+[2019-05-12 10:37:56] [Info] Connect router.infolinks.com:80
+[2019-05-12 10:37:56] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:56] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:56] [Info] Connect match.zorosrv.com:443
+[2019-05-12 10:37:56] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:37:56] [Info] Connect match.zorosrv.com:443
+[2019-05-12 10:37:56] [Info] Disconnect rt3030.infolinks.com:80
+[2019-05-12 10:37:56] [Info] Connect t.pswec.com:443
+[2019-05-12 10:37:56] [Info] Connect smart.tubeadvertising.eu:443
+[2019-05-12 10:37:56] [Info] Connect www.goole.com:80
+[2019-05-12 10:37:56] [Info] Disconnect ps.popcash.net:80
+[2019-05-12 10:37:56] [Info] Connect tile-service.weather.microsoft.com:80
+[2019-05-12 10:37:56] [Info] Disconnect router.infolinks.com:80
+[2019-05-12 10:37:57] [Info] Connect rt3013.infolinks.com:80
+[2019-05-12 10:37:57] [Info] Connect router.infolinks.com:443
+[2019-05-12 10:37:57] [Info] Disconnect tile-service.weather.microsoft.com:80
+[2019-05-12 10:37:57] [Info] Disconnect www.goole.com:80
+[2019-05-12 10:37:58] [Info] Connect ib.adnxs.com:443
+[2019-05-12 10:37:58] [Debug] DNS query fail: b1sync.zemanta.com
+[2019-05-12 10:37:58] [Info] Connect b1sync.zemanta.com:443
+[2019-05-12 10:37:58] [Info] Connect de.tynt.com:443
+[2019-05-12 10:37:58] [Info] Connect image6.pubmatic.com:443
+[2019-05-12 10:37:58] [Info] Connect rt3013.infolinks.com:80
+[2019-05-12 10:37:58] [Info] Connect ib.adnxs.com:80
+[2019-05-12 10:37:58] [Info] Disconnect image6.pubmatic.com:443
+[2019-05-12 10:37:58] [Info] Connect rt3013.infolinks.com:80
+[2019-05-12 10:37:58] [Info] Disconnect match.prod.bidr.io:443
+[2019-05-12 10:37:58] [Info] Connect adserver-us.adtech.advertising.com:80
+[2019-05-12 10:37:58] [Info] Connect adserver-us.adtech.advertising.com:80
+[2019-05-12 10:37:58] [Info] Disconnect match.rundsp.com:443
+[2019-05-12 10:37:58] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:37:58] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:37:58] [Info] Disconnect rt3013.infolinks.com:80
+[2019-05-12 10:37:58] [Info] Disconnect match.zorosrv.com:443
+[2019-05-12 10:37:58] [Info] Disconnect p.adsymptotic.com:443
+[2019-05-12 10:37:58] [Info] Disconnect p.rfihub.com:443
+[2019-05-12 10:37:58] [Info] Disconnect pippio.com:443
+[2019-05-12 10:37:58] [Info] Disconnect pmp.mxptint.net:443
+[2019-05-12 10:37:58] [Info] Connect www.nutaku.net:443
+[2019-05-12 10:37:58] [Info] Connect www.nutaku.net:443
+[2019-05-12 10:37:58] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2019-05-12 10:37:58] [Info] Disconnect pubmatic-match.dotomi.com:443
+[2019-05-12 10:37:59] [Info] Connect bid.contextweb.com:80
+[2019-05-12 10:37:59] [Info] Disconnect b1sync.zemanta.com:443
+[2019-05-12 10:37:59] [Debug] DNS query fail: b1sync.zemanta.com
+[2019-05-12 10:37:59] [Info] Connect b1sync.zemanta.com:443
+[2019-05-12 10:37:59] [Info] Connect s.cpx.to:443
+[2019-05-12 10:37:59] [Info] Connect a.tribalfusion.com:443
+[2019-05-12 10:37:59] [Info] Connect bh.contextweb.com:443
+[2019-05-12 10:37:59] [Info] Connect c1.adform.net:443
+[2019-05-12 10:37:59] [Info] Connect c1.adform.net:443
+[2019-05-12 10:37:59] [Info] Disconnect ib.adnxs.com:443
+[2019-05-12 10:37:59] [Info] Disconnect rt3013.infolinks.com:80
+[2019-05-12 10:37:59] [Info] Disconnect adserver-us.adtech.advertising.com:80
+[2019-05-12 10:37:59] [Info] Disconnect image6.pubmatic.com:443
+[2019-05-12 10:37:59] [Info] Disconnect loadm.exelator.com:443
+[2019-05-12 10:37:59] [Info] Disconnect rtb.gumgum.com:443
+[2019-05-12 10:37:59] [Info] Disconnect rtb.openx.net:443
+[2019-05-12 10:37:59] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:37:59] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:37:59] [Info] Disconnect sync.ipredictive.com:443
+[2019-05-12 10:37:59] [Info] Disconnect sync.mathtag.com:443
+[2019-05-12 10:37:59] [Info] Disconnect t.pswec.com:443
+[2019-05-12 10:37:59] [Info] Disconnect token.rubiconproject.com:443
+[2019-05-12 10:37:59] [Info] Disconnect us-u.openx.net:443
+[2019-05-12 10:37:59] [Info] Disconnect router.infolinks.com:443
+[2019-05-12 10:37:59] [Info] Connect px.adhigh.net:443
+[2019-05-12 10:37:59] [Info] Connect ads.playground.xyz:443
+[2019-05-12 10:37:59] [Debug] DNS query fail: b1sync.zemanta.com
+[2019-05-12 10:37:59] [Info] Connect b1sync.zemanta.com:443
+[2019-05-12 10:37:59] [Info] Disconnect dcba.popcash.net:443
+[2019-05-12 10:37:59] [Info] Disconnect display.popt.in:443
+[2019-05-12 10:37:59] [Info] Connect rtb.adentifi.com:443
+[2019-05-12 10:37:59] [Info] Connect p.adsymptotic.com:443
+[2019-05-12 10:37:59] [Info] Disconnect smart.tubeadvertising.eu:443
+[2019-05-12 10:37:59] [Info] Disconnect us-u.openx.net:443
+[2019-05-12 10:37:59] [Info] Connect cm.adgrx.com:443
+[2019-05-12 10:37:59] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:37:59] [Info] Disconnect bid.contextweb.com:80
+[2019-05-12 10:37:59] [Info] Connect adsd-sync.amanad.adtdp.com:443
+[2019-05-12 10:37:59] [Info] Connect router.infolinks.com:443
+[2019-05-12 10:37:59] [Info] Connect rt3013.infolinks.com:80
+[2019-05-12 10:37:59] [Info] Connect ssc-cms.33across.com:443
+[2019-05-12 10:38:00] [Info] Disconnect ib.adnxs.com:80
+[2019-05-12 10:38:00] [Info] Connect ssc-cms.33across.com:443
+[2019-05-12 10:38:00] [Info] Disconnect de.tynt.com:443
+[2019-05-12 10:38:00] [Info] Disconnect b1sync.zemanta.com:443
+[2019-05-12 10:38:00] [Info] Connect ssc-cms.33across.com:443
+[2019-05-12 10:38:00] [Info] Connect rp.gwallet.com:443
+[2019-05-12 10:38:00] [Info] Disconnect www.nutaku.net:443
+[2019-05-12 10:38:00] [Info] Connect ssc-cms.33across.com:443
+[2019-05-12 10:38:00] [Info] Connect ssc-cms.33across.com:443
+[2019-05-12 10:38:00] [Info] Connect cookie.brealtime.com:443
+[2019-05-12 10:38:00] [Info] Disconnect c1.adform.net:443
+[2019-05-12 10:38:00] [Info] Connect cr-p10.ladsp.jp:443
+[2019-05-12 10:38:00] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:38:00] [Info] Connect pixel.advertising.com:443
+[2019-05-12 10:38:00] [Info] Disconnect b1sync.zemanta.com:443
+[2019-05-12 10:38:00] [Info] Disconnect rt3013.infolinks.com:80
+[2019-05-12 10:38:00] [Info] Disconnect c1.adform.net:443
+[2019-05-12 10:38:00] [Info] Connect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:00] [Info] Connect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:00] [Info] Connect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:00] [Info] Connect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:00] [Info] Connect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:00] [Info] Connect c1.adform.net:443
+[2019-05-12 10:38:00] [Info] Connect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:00] [Info] Connect cm.adgrx.com:443
+[2019-05-12 10:38:00] [Info] Disconnect cm.adgrx.com:443
+[2019-05-12 10:38:00] [Info] Connect px.adhigh.net:443
+[2019-05-12 10:38:00] [Info] Connect rt3013.infolinks.com:80
+[2019-05-12 10:38:00] [Info] Disconnect px.adhigh.net:443
+[2019-05-12 10:38:01] [Info] Disconnect ssc-cms.33across.com:443
+[2019-05-12 10:38:01] [Info] Disconnect ssc-cms.33across.com:443
+[2019-05-12 10:38:01] [Info] Disconnect ssc-cms.33across.com:443
+[2019-05-12 10:38:01] [Info] Connect c1.adform.net:443
+[2019-05-12 10:38:01] [Info] Connect www.google.com:443
+[2019-05-12 10:38:01] [Info] Connect cm.adgrx.com:443
+[2019-05-12 10:38:01] [Info] Disconnect ads.playground.xyz:443
+[2019-05-12 10:38:01] [Info] Connect secure.adnxs.com:443
+[2019-05-12 10:38:01] [Info] Connect simage4.pubmatic.com:443
+[2019-05-12 10:38:01] [Info] Disconnect rtb.adentifi.com:443
+[2019-05-12 10:38:01] [Info] Disconnect s.cpx.to:443
+[2019-05-12 10:38:01] [Info] Disconnect www.nutaku.net:443
+[2019-05-12 10:38:01] [Info] Connect cr-pall.ladsp.com:443
+[2019-05-12 10:38:01] [Info] Direct connect match.adsrvr.org:443
+[2019-05-12 10:38:01] [Info] Disconnect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:01] [Info] Disconnect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:01] [Info] Disconnect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:01] [Info] Disconnect ssc-cms.33across.com:443
+[2019-05-12 10:38:01] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:38:01] [Info] Connect ads.pubmatic.com:443
+[2019-05-12 10:38:01] [Info] Connect sync.1rx.io:443
+[2019-05-12 10:38:01] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:38:01] [Info] Disconnect rt3013.infolinks.com:80
+[2019-05-12 10:38:01] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:38:01] [Info] Disconnect rt3013.infolinks.com:80
+[2019-05-12 10:38:02] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:38:02] [Info] Connect pixel.tapad.com:443
+[2019-05-12 10:38:02] [Info] Connect cookie.brealtime.com:443
+[2019-05-12 10:38:02] [Info] Connect match.prod.bidr.io:443
+[2019-05-12 10:38:02] [Info] Disconnect bh.contextweb.com:443
+[2019-05-12 10:38:02] [Info] Connect simage2.pubmatic.com:443
+[2019-05-12 10:38:02] [Info] Disconnect c1.adform.net:443
+[2019-05-12 10:38:02] [Info] Disconnect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:02] [Info] Disconnect cm.adgrx.com:443
+[2019-05-12 10:38:02] [Info] Disconnect router.infolinks.com:443
+[2019-05-12 10:38:02] [Info] Disconnect cr-p10.ladsp.jp:443
+[2019-05-12 10:38:02] [Info] Disconnect p.adsymptotic.com:443
+[2019-05-12 10:38:02] [Info] Disconnect px.adhigh.net:443
+[2019-05-12 10:38:02] [Info] Disconnect ssc-cms.33across.com:443
+[2019-05-12 10:38:02] [Info] Disconnect c1.adform.net:443
+[2019-05-12 10:38:02] [Info] Disconnect www.google.com:443
+[2019-05-12 10:38:02] [Info] Connect bh.contextweb.com:80
+[2019-05-12 10:38:02] [Info] Connect nep.advangelists.com:443
+[2019-05-12 10:38:02] [Info] Connect secure.adnxs.com:443
+[2019-05-12 10:38:02] [Info] Connect secure.adnxs.com:443
+[2019-05-12 10:38:03] [Debug] DNS query fail: b1sync.zemanta.com
+[2019-05-12 10:38:03] [Info] Connect b1sync.zemanta.com:443
+[2019-05-12 10:38:03] [Info] Connect cms-xch.33across.com:443
+[2019-05-12 10:38:03] [Info] Direct connect cm.g.doubleclick.net:80
+[2019-05-12 10:38:03] [Info] Disconnect bh.contextweb.com:80
+[2019-05-12 10:38:03] [Info] Connect bh.contextweb.com:80
+[2019-05-12 10:38:03] [Info] Disconnect adserver-us.adtech.advertising.com:80
+[2019-05-12 10:38:03] [Info] Disconnect b1sync.zemanta.com:443
+[2019-05-12 10:38:03] [Info] Connect cms-xch.33across.com:443
+[2019-05-12 10:38:03] [Info] Connect bh.contextweb.com:80
+[2019-05-12 10:38:04] [Info] Connect cms-xch.33across.com:443
+[2019-05-12 10:38:04] [Info] Disconnect bh.contextweb.com:80
+[2019-05-12 10:38:04] [Info] Connect image6.pubmatic.com:443
+[2019-05-12 10:38:04] [Info] Disconnect a.tribalfusion.com:443
+[2019-05-12 10:38:04] [Info] Disconnect ads.pubmatic.com:443
+[2019-05-12 10:38:04] [Info] Connect x.bidswitch.net:80
+[2019-05-12 10:38:04] [Info] Disconnect bh.contextweb.com:80
+[2019-05-12 10:38:04] [Info] Disconnect cms-xch.33across.com:443
+[2019-05-12 10:38:05] [Info] Connect t.pswec.com:80
+[2019-05-12 10:38:05] [Info] Disconnect x.bidswitch.net:80
+[2019-05-12 10:38:06] [Info] Direct connect www.google-analytics.com:443
+[2019-05-12 10:38:06] [Info] Connect atlas.etahub.com:443
+[2019-05-12 10:38:06] [Info] Connect clients1.google.com:443
+[2019-05-12 10:38:06] [Info] Disconnect adsd-sync.amanad.adtdp.com:443
+[2019-05-12 10:38:06] [Info] Connect atlas.etahub.com:443
+[2019-05-12 10:38:06] [Info] Connect atlas.etahub.com:443
+[2019-05-12 10:38:06] [Info] Disconnect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:06] [Info] Disconnect cms-xch.33across.com:443
+[2019-05-12 10:38:06] [Info] Disconnect cookie.brealtime.com:443
+[2019-05-12 10:38:06] [Info] Connect atlas.etahub.com:443
+[2019-05-12 10:38:07] [Info] Connect t.pswec.com:80
+[2019-05-12 10:38:08] [Info] Disconnect t.pswec.com:80
+[2019-05-12 10:38:08] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-05-12 10:38:08] [Info] Connect x.bidswitch.net:80
+[2019-05-12 10:38:08] [Info] Disconnect t.pswec.com:80
+[2019-05-12 10:38:09] [Info] Connect bh.contextweb.com:80
+[2019-05-12 10:38:09] [Info] Disconnect x.bidswitch.net:80
+[2019-05-12 10:38:09] [Info] Disconnect match.prod.bidr.io:443
+[2019-05-12 10:38:10] [Info] Connect bh.contextweb.com:80
+[2019-05-12 10:38:10] [Info] Disconnect bh.contextweb.com:80
+[2019-05-12 10:38:10] [Info] Disconnect atlas.etahub.com:443
+[2019-05-12 10:38:11] [Info] Disconnect atlas.etahub.com:443
+[2019-05-12 10:38:12] [Info] Disconnect sync.1rx.io:443
+[2019-05-12 10:38:12] [Info] Disconnect secure.adnxs.com:443
+[2019-05-12 10:38:12] [Info] Disconnect bh.contextweb.com:80
+[2019-05-12 10:38:14] [Info] Disconnect secure.adnxs.com:443
+[2019-05-12 10:38:14] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-05-12 10:38:14] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:38:14] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-05-12 10:38:15] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:16] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:17] [Info] Disconnect cookie.brealtime.com:443
+[2019-05-12 10:38:18] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:18] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:38:18] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:18] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:18] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:18] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:38:18] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:19] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:38:19] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:20] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:38:22] [Info] Disconnect atlas.etahub.com:443
+[2019-05-12 10:38:22] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-05-12 10:38:27] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:38:27] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:38:27] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:38:27] [Info] Disconnect simage4.pubmatic.com:443
+[2019-05-12 10:38:27] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:38:27] [Info] Disconnect secure.adnxs.com:443
+[2019-05-12 10:38:29] [Info] Connect ads.pubmatic.com:443
+[2019-05-12 10:38:30] [Info] Connect router.infolinks.com:443
+[2019-05-12 10:38:30] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:38:30] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:38:30] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:38:30] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:38:30] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:38:30] [Info] Connect www.youtube.com:443
+[2019-05-12 10:38:30] [Info] Direct connect www.gstatic.com:443
+[2019-05-12 10:38:30] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-05-12 10:38:31] [Info] Connect www.google.com:443
+[2019-05-12 10:38:31] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:38:31] [Info] Connect s.ytimg.com:443
+[2019-05-12 10:38:32] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-12 10:38:36] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:38:36] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:38:36] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:38:37] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:38:39] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:38:40] [Info] Direct connect translate.googleapis.com:443
+[2019-05-12 10:38:41] [Info] Connect translate.google.com:443
+[2019-05-12 10:38:41] [Info] Disconnect router.infolinks.com:443
+[2019-05-12 10:38:44] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-12 10:38:56] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:38:56] [Info] Disconnect www.youtube.com:443
+[2019-05-12 10:38:56] [Info] Disconnect image6.pubmatic.com:443
+[2019-05-12 10:38:56] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-12 10:38:56] [Info] Disconnect iecvlist.microsoft.com:443
+[2019-05-12 10:38:56] [Info] Disconnect rp.gwallet.com:443
+[2019-05-12 10:38:56] [Info] Disconnect simage4.pubmatic.com:443
+[2019-05-12 10:38:56] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:38:56] [Info] Disconnect clients1.google.com:443
+[2019-05-12 10:38:56] [Info] Disconnect cr-pall.ladsp.com:443
+[2019-05-12 10:38:56] [Info] Disconnect cdn1-images.nutaku.com:443
+[2019-05-12 10:38:56] [Info] Disconnect nep.advangelists.com:443
+[2019-05-12 10:38:56] [Info] Disconnect pixel.advertising.com:443
+[2019-05-12 10:38:56] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:38:56] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:38:56] [Info] Disconnect translate.google.com:443
+[2019-05-12 10:38:57] [Info] Disconnect simage2.pubmatic.com:443
+[2019-05-12 10:38:57] [Info] Disconnect cms-xch.33across.com:443
+[2019-05-12 10:38:57] [Info] Disconnect pixel.tapad.com:443
+[2019-05-12 10:38:57] [Info] Disconnect s.ytimg.com:443
+[2019-05-12 10:38:57] [Info] Disconnect ads.pubmatic.com:443
+[2019-05-12 10:38:57] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:38:57] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:38:57] [Info] Disconnect www.google.com:443
+[2019-05-12 10:39:02] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:08] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:39:08] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:39:09] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:39:10] [Info] Connect translate.google.com:443
+[2019-05-12 10:39:11] [Info] Connect translate.google.com:443
+[2019-05-12 10:39:11] [Info] Connect translate.google.com:443
+[2019-05-12 10:39:15] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:39:20] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:25] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:25] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:26] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:39:26] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:26] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:26] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:26] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:26] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:26] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:39:27] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:39:39] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:39:39] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:39:40] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:39:40] [Info] Disconnect translate.google.com:443
+[2019-05-12 10:39:42] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:39:47] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:39:50] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:39:50] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:39:54] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:40:25] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:40:30] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:40:42] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:40:52] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:41:08] [Info] Direct connect d.skconf.f.360.cn:80
+[2019-05-12 10:41:32] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:41:32] [Info] Connect www.nutaku.net:443
+[2019-05-12 10:41:32] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:41:32] [Info] Connect www.youtube.com:443
+[2019-05-12 10:41:32] [Info] Connect cdn1-images.nutaku.com:443
+[2019-05-12 10:41:32] [Info] Connect www.google.com:443
+[2019-05-12 10:41:32] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-12 10:41:32] [Info] Connect s.ytimg.com:443
+[2019-05-12 10:41:32] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:41:32] [Info] Connect s.ytimg.com:443
+[2019-05-12 10:41:37] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:41:38] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:41:43] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:41:43] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:41:43] [Info] Disconnect www.google.com:443
+[2019-05-12 10:41:44] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:41:50] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:42:00] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:00] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:42:00] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:00] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:00] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:00] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:01] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:01] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:02] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:42:12] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:15] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:42:15] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:42:15] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:42:15] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:15] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:15] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:16] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:16] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:17] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:42:22] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:42:24] [Info] Disconnect www.nutaku.net:443
+[2019-05-12 10:42:30] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:42:30] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:42:30] [Info] Disconnect s.ytimg.com:443
+[2019-05-12 10:42:30] [Info] Disconnect cdn1-images.nutaku.com:443
+[2019-05-12 10:42:30] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:42:30] [Info] Disconnect www.youtube.com:443
+[2019-05-12 10:42:32] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:42:37] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:42:37] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:42:42] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:43:10] [Info] Direct connect update.googleapis.com:443
+[2019-05-12 10:43:33] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:44:08] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:08] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:10] [Info] Direct connect gorgon.youdao.com:80
+[2019-05-12 10:44:10] [Info] Direct connect oimagec5.ydstatic.com:80
+[2019-05-12 10:44:10] [Info] Direct connect dsp-impr2.youdao.com:80
+[2019-05-12 10:44:13] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:13] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:13] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:13] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:14] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:44:14] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:14] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:14] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:14] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:14] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:44:15] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:44:15] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:44:15] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:16] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:44:16] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:16] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:16] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:16] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:44:17] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 10:44:20] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:44:20] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:44:22] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:44:24] [Info] Connect kclr96fm.com:80
+[2019-05-12 10:44:26] [Info] Connect kclr96fm.com:443
+[2019-05-12 10:44:26] [Info] Disconnect kclr96fm.com:80
+[2019-05-12 10:44:26] [Info] Connect kclr96fm.com:443
+[2019-05-12 10:44:27] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:44:29] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:44:30] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:44:31] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-12 10:44:39] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-05-12 10:44:40] [Info] Connect secure.quantserve.com:443
+[2019-05-12 10:44:40] [Info] Direct connect adservice.google.com:443
+[2019-05-12 10:44:40] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-05-12 10:44:41] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-05-12 10:44:41] [Info] Direct connect fonts.googleapis.com:443
+[2019-05-12 10:44:41] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-05-12 10:44:41] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-05-12 10:44:41] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-05-12 10:44:41] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-05-12 10:44:41] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-05-12 10:44:41] [Info] Direct connect www.googletagservices.com:443
+[2019-05-12 10:44:41] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-12 10:44:42] [Info] Connect image6.pubmatic.com:443
+[2019-05-12 10:44:42] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-05-12 10:44:42] [Info] Connect odr.mookie1.com:443
+[2019-05-12 10:44:42] [Info] Connect odr.mookie1.com:443
+[2019-05-12 10:44:42] [Info] Connect googlecm.hit.gemius.pl:443
+[2019-05-12 10:44:42] [Info] Connect ssum-sec.casalemedia.com:443
+[2019-05-12 10:44:42] [Info] Connect e.dlx.addthis.com:443
+[2019-05-12 10:44:43] [Info] Direct connect www.google-analytics.com:443
+[2019-05-12 10:44:43] [Info] Connect rules.quantcount.com:443
+[2019-05-12 10:44:43] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-05-12 10:44:43] [Info] Connect fcmatch.google.com:443
+[2019-05-12 10:44:43] [Info] Connect fcmatch.google.com:443
+[2019-05-12 10:44:43] [Info] Connect fcmatch.google.com:443
+[2019-05-12 10:44:43] [Info] Connect fcmatch.google.com:443
+[2019-05-12 10:44:44] [Info] Connect clients1.google.com:443
+[2019-05-12 10:44:44] [Info] Connect secure.gravatar.com:443
+[2019-05-12 10:44:44] [Debug] DNS query fail: fcmatch.youtube.com
+[2019-05-12 10:44:44] [Debug] DNS query fail: fcmatch.youtube.com
+[2019-05-12 10:44:44] [Debug] DNS query fail: fcmatch.youtube.com
+[2019-05-12 10:44:44] [Info] Connect fcmatch.youtube.com:443
+[2019-05-12 10:44:44] [Info] Connect fcmatch.youtube.com:443
+[2019-05-12 10:44:44] [Debug] DNS query fail: fcmatch.youtube.com
+[2019-05-12 10:44:44] [Info] Connect fcmatch.youtube.com:443
+[2019-05-12 10:44:44] [Info] Connect fcmatch.youtube.com:443
+[2019-05-12 10:44:44] [Info] Disconnect e.dlx.addthis.com:443
+[2019-05-12 10:44:45] [Info] Disconnect fcmatch.youtube.com:443
+[2019-05-12 10:44:45] [Info] Disconnect fcmatch.youtube.com:443
+[2019-05-12 10:44:45] [Info] Disconnect fcmatch.youtube.com:443
+[2019-05-12 10:44:46] [Info] Connect pixel.quantserve.com:443
+[2019-05-12 10:44:52] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:44:52] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:45:46] [Info] Disconnect secure.quantserve.com:443
+[2019-05-12 10:45:53] [Info] Disconnect pixel.quantserve.com:443
+[2019-05-12 10:45:54] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:45:54] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:45:57] [Info] Disconnect odr.mookie1.com:443
+[2019-05-12 10:45:57] [Info] Disconnect odr.mookie1.com:443
+[2019-05-12 10:46:23] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2019-05-12 10:46:38] [Info] Connect settings-win.data.microsoft.com:443
+[2019-05-12 10:46:39] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-05-12 10:46:42] [Info] Direct connect 36.99.30.103:80
+[2019-05-12 10:46:44] [Info] Disconnect image6.pubmatic.com:443
+[2019-05-12 10:46:46] [Info] Disconnect fcmatch.google.com:443
+[2019-05-12 10:46:46] [Info] Disconnect fcmatch.google.com:443
+[2019-05-12 10:46:46] [Info] Disconnect ssum-sec.casalemedia.com:443
+[2019-05-12 10:46:46] [Info] Disconnect fcmatch.google.com:443
+[2019-05-12 10:46:46] [Info] Disconnect clients1.google.com:443
+[2019-05-12 10:46:48] [Info] Disconnect rules.quantcount.com:443
+[2019-05-12 10:46:48] [Info] Disconnect secure.gravatar.com:443
+[2019-05-12 10:46:54] [Info] Disconnect kclr96fm.com:443
+[2019-05-12 10:46:54] [Info] Disconnect fcmatch.youtube.com:443
+[2019-05-12 10:46:54] [Info] Disconnect fcmatch.google.com:443
+[2019-05-12 10:46:58] [Info] Disconnect translate.google.com:443
+[2019-05-12 10:47:18] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:47:18] [Info] Connect www.mojeek.com:443
+[2019-05-12 10:47:22] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:47:36] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:47:36] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:47:36] [Info] Disconnect www.mojeek.com:443
+[2019-05-12 10:47:36] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:47:37] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:47:37] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:47:37] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:47:38] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:47:38] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:47:39] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:47:39] [Info] Connect www.google.com:80
+[2019-05-12 10:47:40] [Info] Connect www.google.com:443
+[2019-05-12 10:47:40] [Info] Disconnect www.google.com:80
+[2019-05-12 10:47:41] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:47:42] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-12 10:47:42] [Info] Direct connect www.gstatic.com:443
+[2019-05-12 10:47:43] [Info] Connect clients1.google.com:443
+[2019-05-12 10:47:43] [Info] Connect apis.google.com:443
+[2019-05-12 10:47:45] [Info] Disconnect apis.google.com:443
+[2019-05-12 10:47:45] [Info] Disconnect www.google.com:443
+[2019-05-12 10:47:45] [Info] Disconnect clients1.google.com:443
+[2019-05-12 10:49:04] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 10:49:04] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 10:49:52] [Info] Connect login.live.com:443
+[2019-05-12 10:50:54] [Info] Disconnect login.live.com:443
+[2019-05-12 10:51:07] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 10:51:07] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 10:52:02] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 10:52:04] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 10:53:21] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:53:22] [Info] Connect login.live.com:443
+[2019-05-12 10:53:23] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:53:23] [Info] Direct connect www.baidu.com:443
+[2019-05-12 10:53:23] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 10:53:23] [Info] Direct connect www.baidu.com:443
+[2019-05-12 10:53:23] [Info] Direct connect www.baidu.com:443
+[2019-05-12 10:53:23] [Info] Direct connect ss0.baidu.com:443
+[2019-05-12 10:53:23] [Info] Direct connect ss0.baidu.com:443
+[2019-05-12 10:53:23] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-12 10:53:23] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-12 10:53:23] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-12 10:53:23] [Info] Direct connect ss1.bdstatic.com:443
+[2019-05-12 10:53:23] [Info] Direct connect ss1.bdstatic.com:443
+[2019-05-12 10:53:23] [Info] Direct connect ss0.bdstatic.com:443
+[2019-05-12 10:53:24] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 10:53:24] [Info] Direct connect sp1.baidu.com:443
+[2019-05-12 10:53:24] [Info] Direct connect sp0.baidu.com:443
+[2019-05-12 10:53:24] [Info] Direct connect sp0.baidu.com:443
+[2019-05-12 10:53:39] [Info] Direct connect ss2.baidu.com:443
+[2019-05-12 10:53:39] [Info] Direct connect ss3.baidu.com:443
+[2019-05-12 10:53:39] [Info] Direct connect ss1.baidu.com:443
+[2019-05-12 10:53:42] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 10:53:43] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 10:53:46] [Info] Direct connect sp2.baidu.com:443
+[2019-05-12 10:53:46] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:53:46] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:53:46] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 10:53:46] [Info] Direct connect www.baidu.com:443
+[2019-05-12 10:53:47] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 10:53:47] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 10:53:47] [Info] Direct connect www.jianshu.com:443
+[2019-05-12 10:53:47] [Info] Connect ocsp.digicert.com:80
+[2019-05-12 10:53:48] [Info] Disconnect ocsp.digicert.com:80
+[2019-05-12 10:53:49] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 10:53:49] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 10:53:49] [Info] Direct connect upload.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect upload.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect upload.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect upload-images.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect upload.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect upload.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect upload.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:49] [Info] Connect ocsp.digicert.com:80
+[2019-05-12 10:53:51] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:51] [Info] Direct connect upload.jianshu.io:443
+[2019-05-12 10:53:51] [Info] Direct connect upload.jianshu.io:443
+[2019-05-12 10:53:51] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:51] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:51] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:51] [Info] Direct connect upload-images.jianshu.io:443
+[2019-05-12 10:53:51] [Info] Disconnect ocsp.digicert.com:80
+[2019-05-12 10:53:51] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-12 10:53:51] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:53:51] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:54:01] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 10:54:01] [Info] Direct connect clientservices.googleapis.com:443
+[2019-05-12 10:54:01] [Info] Connect accounts.google.com:443
+[2019-05-12 10:54:01] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:54:05] [Info] Connect clients2.google.com:443
+[2019-05-12 10:54:09] [Debug] DNS query fail: khdzcubcrutffbg
+[2019-05-12 10:54:09] [Debug] DNS query fail: yolukawg
+[2019-05-12 10:54:09] [Info] Connect khdzcubcrutffbg:80
+[2019-05-12 10:54:09] [Debug] DNS query fail: ktyrfjlcx
+[2019-05-12 10:54:09] [Info] Connect yolukawg:80
+[2019-05-12 10:54:09] [Info] Connect ktyrfjlcx:80
+[2019-05-12 10:54:10] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-12 10:54:10] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-12 10:54:10] [Info] Disconnect ktyrfjlcx:80
+[2019-05-12 10:54:11] [Info] Disconnect yolukawg:80
+[2019-05-12 10:54:12] [Info] Disconnect khdzcubcrutffbg:80
+[2019-05-12 10:54:28] [Info] Disconnect login.live.com:443
+[2019-05-12 10:54:51] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:54:56] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 10:55:00] [Info] Connect clients4.google.com:443
+[2019-05-12 10:56:03] [Info] Disconnect accounts.google.com:443
+[2019-05-12 10:56:03] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:56:09] [Info] Disconnect clients2.google.com:443
+[2019-05-12 10:56:32] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:57:04] [Info] Disconnect clients4.google.com:443
+[2019-05-12 10:58:24] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 10:58:35] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-12 11:00:00] [Info] Direct connect update.googleapis.com:443
+[2019-05-12 11:01:14] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:01:14] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:01:39] [Info] Connect settings-win.data.microsoft.com:443
+[2019-05-12 11:01:41] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-05-12 11:02:24] [Info] Connect g.live.com:443
+[2019-05-12 11:02:27] [Info] Connect oneclient.sfx.ms:443
+[2019-05-12 11:02:30] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:02:30] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:02:30] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:02:30] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:03:43] [Info] Disconnect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:04:14] [Info] Disconnect g.live.com:443
+[2019-05-12 11:04:24] [Info] Connect config.edge.skype.com:443
+[2019-05-12 11:04:25] [Info] Connect login.live.com:443
+[2019-05-12 11:04:31] [Info] Connect roaming.officeapps.live.com:443
+[2019-05-12 11:04:33] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:04:33] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:04:34] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:04:34] [Info] Connect ocws.officeapps.live.com:443
+[2019-05-12 11:04:34] [Info] Connect ocws.officeapps.live.com:443
+[2019-05-12 11:04:34] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 11:04:35] [Info] Disconnect roaming.officeapps.live.com:443
+[2019-05-12 11:04:45] [Info] Connect roaming.officeapps.live.com:443
+[2019-05-12 11:04:47] [Info] Disconnect roaming.officeapps.live.com:443
+[2019-05-12 11:04:56] [Info] Direct connect pconf.f.360.cn:80
+[2019-05-12 11:05:01] [Info] Direct connect 36.99.30.103:80
+[2019-05-12 11:05:08] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:05:09] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:05:10] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:05:14] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:05:14] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 11:05:14] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:05:30] [Info] Connect nexusrules.officeapps.live.com:443
+[2019-05-12 11:05:33] [Info] Disconnect config.edge.skype.com:443
+[2019-05-12 11:05:36] [Info] Disconnect login.live.com:443
+[2019-05-12 11:06:14] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:06:14] [Info] Disconnect ocws.officeapps.live.com:443
+[2019-05-12 11:06:14] [Info] Disconnect ocws.officeapps.live.com:443
+[2019-05-12 11:06:19] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:06:23] [Info] Direct connect softm.update.360safe.com:80
+[2019-05-12 11:06:25] [Info] Direct connect conf.wsm.360.cn:80
+[2019-05-12 11:06:26] [Info] Direct connect conf.wsm.360.cn:80
+[2019-05-12 11:06:26] [Info] Direct connect cx.soft.360.cn:80
+[2019-05-12 11:06:29] [Info] Direct connect cx.soft.360.cn:80
+[2019-05-12 11:06:29] [Info] Direct connect pconf.f.360.cn:80
+[2019-05-12 11:06:57] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-05-12 11:07:04] [Info] Connect v20.events.data.microsoft.com:443
+[2019-05-12 11:07:07] [Info] Disconnect v20.events.data.microsoft.com:443
+[2019-05-12 11:07:34] [Info] Disconnect nexusrules.officeapps.live.com:443
+[2019-05-12 11:08:12] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 11:08:13] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 11:08:20] [Info] Connect tile-service.weather.microsoft.com:80
+[2019-05-12 11:08:20] [Info] Connect cdn.onenote.net:443
+[2019-05-12 11:08:23] [Info] Disconnect tile-service.weather.microsoft.com:80
+[2019-05-12 11:09:24] [Info] Disconnect cdn.onenote.net:443
+[2019-05-12 11:09:41] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 11:11:00] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:11:12] [Info] Connect roaming.officeapps.live.com:443
+[2019-05-12 11:11:13] [Info] Connect login.live.com:443
+[2019-05-12 11:11:14] [Info] Disconnect roaming.officeapps.live.com:443
+[2019-05-12 11:11:31] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 11:12:09] [Info] Direct connect d.skconf.f.360.cn:80
+[2019-05-12 11:12:19] [Info] Disconnect login.live.com:443
+[2019-05-12 11:12:57] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:13:01] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:13:21] [Info] Direct connect 36.99.30.103:80
+[2019-05-12 11:13:33] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 11:13:33] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 11:14:02] [Info] Direct connect img1.pcfg.cache.wps.cn:80
+[2019-05-12 11:14:02] [Info] Direct connect js1.pcfg.cache.wpscdn.cn:80
+[2019-05-12 11:14:02] [Info] Direct connect js1.pcfg.cache.wpscdn.cn:80
+[2019-05-12 11:14:02] [Info] Direct connect js1.pcfg.cache.wpscdn.cn:80
+[2019-05-12 11:14:54] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:16:12] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 11:16:41] [Info] Connect settings-win.data.microsoft.com:443
+[2019-05-12 11:16:43] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-05-12 11:17:29] [Info] Disconnect oneclient.sfx.ms:443
+[2019-05-12 11:17:30] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:17:30] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:17:30] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:17:42] [Info] Connect config.edge.skype.com:443
+[2019-05-12 11:17:45] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:18:03] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 11:18:04] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:18:07] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:18:19] [Info] Disconnect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:18:27] [Info] Connect roaming.officeapps.live.com:443
+[2019-05-12 11:18:29] [Info] Disconnect roaming.officeapps.live.com:443
+[2019-05-12 11:18:39] [Info] Direct connect clientservices.googleapis.com:443
+[2019-05-12 11:18:39] [Info] Connect accounts.google.com:443
+[2019-05-12 11:18:39] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 11:18:43] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:18:43] [Info] Direct connect www.baidu.com:80
+[2019-05-12 11:18:43] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:18:43] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:18:43] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:18:43] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:18:43] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:18:43] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:18:43] [Info] Direct connect ss1.bdstatic.com:443
+[2019-05-12 11:18:44] [Info] Connect login.live.com:443
+[2019-05-12 11:18:44] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:18:44] [Info] Direct connect sp0.baidu.com:443
+[2019-05-12 11:18:45] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:18:46] [Info] Connect clients2.google.com:443
+[2019-05-12 11:18:49] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-12 11:18:49] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-12 11:18:50] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:18:50] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 11:18:50] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:18:50] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 11:18:50] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 11:18:50] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 11:18:50] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 11:18:51] [Info] Disconnect config.edge.skype.com:443
+[2019-05-12 11:18:52] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:18:52] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:18:52] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 11:18:52] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:18:53] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:18:53] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:18:54] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:18:56] [Debug] DNS query fail: riwiiown
+[2019-05-12 11:18:56] [Info] Connect riwiiown:80
+[2019-05-12 11:18:56] [Debug] DNS query fail: uvzukvbrfcx
+[2019-05-12 11:18:56] [Debug] DNS query fail: bxpojeuslmxdyl
+[2019-05-12 11:18:56] [Info] Connect uvzukvbrfcx:80
+[2019-05-12 11:18:56] [Info] Connect bxpojeuslmxdyl:80
+[2019-05-12 11:18:57] [Info] Disconnect uvzukvbrfcx:80
+[2019-05-12 11:18:57] [Info] Disconnect riwiiown:80
+[2019-05-12 11:18:58] [Info] Disconnect bxpojeuslmxdyl:80
+[2019-05-12 11:18:59] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:19:09] [Info] Direct connect suggestion.baidu.com:80
+[2019-05-12 11:19:12] [Info] Connect iecvlist.microsoft.com:443
+[2019-05-12 11:19:14] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:19:14] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:19:17] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:19:22] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:19:22] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:19:23] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:19:24] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 11:19:27] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 11:19:37] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:19:38] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:19:41] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:19:43] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:19:49] [Info] Disconnect login.live.com:443
+[2019-05-12 11:19:59] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:20:04] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:20:41] [Info] Disconnect accounts.google.com:443
+[2019-05-12 11:20:49] [Info] Disconnect clients2.google.com:443
+[2019-05-12 11:21:02] [Info] Disconnect iecvlist.microsoft.com:443
+[2019-05-12 11:21:30] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:21:43] [Info] Disconnect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:21:49] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:21:50] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:21:50] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:21:50] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:21:50] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:21:50] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 11:21:51] [Info] Direct connect cidian.youdao.com:80
+[2019-05-12 11:23:06] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-12 11:23:08] [Info] Direct connect vconf.f.360.cn:80
+[2019-05-12 11:23:25] [Info] Direct connect vcheck.f.360.cn:80
+[2019-05-12 11:23:27] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 11:23:40] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:23:40] [Info] Direct connect gorgon.youdao.com:80
+[2019-05-12 11:23:40] [Info] Direct connect oimageb4.ydstatic.com:80
+[2019-05-12 11:23:40] [Info] Direct connect dsp-impr2.youdao.com:80
+[2019-05-12 11:24:07] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 11:24:10] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 11:24:12] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:24:12] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:24:17] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:24:39] [Info] Direct connect update.googleapis.com:443
+[2019-05-12 11:25:08] [Info] Direct connect updatem.360safe.com:80
+[2019-05-12 11:25:08] [Info] Direct connect src.dl.360safe.com:80
+[2019-05-12 11:25:17] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 11:26:16] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:26:16] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:26:18] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:26:20] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:26:20] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:26:20] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss2.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss1.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss0.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss2.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss0.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-12 11:26:20] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-12 11:26:20] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss0.bdstatic.com:443
+[2019-05-12 11:26:20] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss0.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss2.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect ss2.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect sp1.baidu.com:443
+[2019-05-12 11:26:20] [Info] Direct connect sp0.baidu.com:443
+[2019-05-12 11:26:21] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:26:22] [Info] Direct connect ss3.baidu.com:443
+[2019-05-12 11:26:22] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:22] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:23] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:23] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:23] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:23] [Info] Direct connect sp1.baidu.com:443
+[2019-05-12 11:26:23] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:25] [Info] Direct connect sp2.baidu.com:443
+[2019-05-12 11:26:25] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:26:25] [Info] Direct connect www.baidu.com:443
+[2019-05-12 11:26:26] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:26:26] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:26:26] [Info] Connect ocsp.godaddy.com:80
+[2019-05-12 11:26:27] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 11:26:27] [Info] Disconnect ocsp.godaddy.com:80
+[2019-05-12 11:26:27] [Info] Direct connect s1.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s1.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s1.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s1.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:27] [Info] Direct connect analytics.meituan.net:443
+[2019-05-12 11:26:27] [Info] Connect ocsp.godaddy.com:80
+[2019-05-12 11:26:28] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:28] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:29] [Info] Direct connect s1.meituan.net:443
+[2019-05-12 11:26:29] [Info] Direct connect s1.meituan.net:443
+[2019-05-12 11:26:29] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:29] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:26:29] [Info] Disconnect ocsp.godaddy.com:80
+[2019-05-12 11:26:29] [Info] Direct connect wreport.meituan.net:443
+[2019-05-12 11:26:29] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:26:29] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:29] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:29] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:29] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:29] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:29] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:29] [Info] Direct connect api.mobile.meituan.com:443
+[2019-05-12 11:26:29] [Info] Direct connect api.mobile.meituan.com:443
+[2019-05-12 11:26:30] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:30] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:30] [Info] Direct connect catfront.dianping.com:443
+[2019-05-12 11:26:30] [Info] Connect ocsp.godaddy.com:80
+[2019-05-12 11:26:30] [Info] Disconnect ocsp.godaddy.com:80
+[2019-05-12 11:26:31] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:26:31] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:26:31] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:26:32] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:26:36] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:27:06] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:27:06] [Info] Connect onedriveclucprodbn20002.blob.core.windows.net:443
+[2019-05-12 11:27:09] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:27:18] [Info] Direct connect bj.meituan.com:443
+[2019-05-12 11:27:18] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p1.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p1.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p1.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect p1.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect wreport.meituan.net:443
+[2019-05-12 11:27:18] [Info] Direct connect wreport.meituan.net:443
+[2019-05-12 11:27:25] [Info] Direct connect bj.meituan.com:443
+[2019-05-12 11:27:26] [Info] Direct connect map.qq.com:443
+[2019-05-12 11:27:26] [Info] Direct connect 3gimg.qq.com:443
+[2019-05-12 11:27:26] [Info] Direct connect pr.map.qq.com:443
+[2019-05-12 11:27:26] [Info] Direct connect confinfo.map.qq.com:443
+[2019-05-12 11:27:26] [Info] Direct connect confinfo.map.qq.com:443
+[2019-05-12 11:27:26] [Info] Direct connect overseactrl.map.qq.com:443
+[2019-05-12 11:27:27] [Info] Direct connect rt1.map.gtimg.com:443
+[2019-05-12 11:27:27] [Info] Direct connect rt1.map.gtimg.com:443
+[2019-05-12 11:27:27] [Info] Direct connect rt0.map.gtimg.com:443
+[2019-05-12 11:27:27] [Info] Direct connect rt2.map.gtimg.com:443
+[2019-05-12 11:27:27] [Info] Direct connect rt2.map.gtimg.com:443
+[2019-05-12 11:27:27] [Info] Direct connect rt3.map.gtimg.com:443
+[2019-05-12 11:27:27] [Info] Direct connect apikey.map.qq.com:443
+[2019-05-12 11:27:27] [Info] Direct connect wecar.myapp.com:443
+[2019-05-12 11:27:27] [Info] Direct connect s0.meituan.net:443
+[2019-05-12 11:27:36] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:27:41] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:27:50] [Info] Direct connect mlog.dianping.com:443
+[2019-05-12 11:27:51] [Info] Direct connect qcloud.dpfile.com:80
+[2019-05-12 11:27:56] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:28:00] [Info] Direct connect bj.meituan.com:443
+[2019-05-12 11:28:01] [Info] Direct connect confinfo.map.qq.com:443
+[2019-05-12 11:28:01] [Info] Direct connect confinfo.map.qq.com:443
+[2019-05-12 11:28:01] [Info] Direct connect wreport.meituan.net:443
+[2019-05-12 11:28:01] [Info] Direct connect wreport.meituan.net:443
+[2019-05-12 11:28:01] [Info] Direct connect overseactrl.map.qq.com:443
+[2019-05-12 11:28:01] [Info] Direct connect dreport.meituan.net:443
+[2019-05-12 11:28:01] [Info] Direct connect apikey.map.qq.com:443
+[2019-05-12 11:28:02] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:28:13] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:28:32] [Info] Disconnect onedriveclucprodbn20002.blob.core.windows.net:443
+[2019-05-12 11:28:44] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:28:55] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:28:55] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:29:00] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:29:34] [Info] Direct connect p0.meituan.net:443
+[2019-05-12 11:29:34] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:29:35] [Info] Direct connect rt3.map.gtimg.com:443
+[2019-05-12 11:29:35] [Info] Direct connect rt0.map.gtimg.com:443
+[2019-05-12 11:29:36] [Info] Direct connect pr.map.qq.com:443
+[2019-05-12 11:29:42] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:30:00] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:30:17] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:31:21] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:31:43] [Info] Connect settings-win.data.microsoft.com:443
+[2019-05-12 11:31:44] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-05-12 11:33:59] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:33:59] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:34:00] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:34:04] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:34:04] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:34:59] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:35:04] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:36:28] [Info] Direct connect s.f.360.cn:80
+[2019-05-12 11:36:57] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-05-12 11:37:04] [Info] Connect v20.events.data.microsoft.com:443
+[2019-05-12 11:37:06] [Info] Disconnect v20.events.data.microsoft.com:443
+[2019-05-12 11:38:51] [Info] Connect tile-service.weather.microsoft.com:80
+[2019-05-12 11:39:07] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 11:39:09] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 11:39:12] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 11:39:24] [Info] Disconnect tile-service.weather.microsoft.com:80
+[2019-05-12 11:39:43] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 11:39:53] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 11:39:54] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 11:40:02] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:40:02] [Info] Disconnect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:40:02] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:40:03] [Info] Disconnect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:40:18] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 11:40:20] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 11:42:29] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 11:42:30] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-05-12 11:43:09] [Info] Direct connect d.skconf.f.360.cn:80
+[2019-05-12 11:43:56] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:45:58] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:46:44] [Info] Connect settings-win.data.microsoft.com:443
+[2019-05-12 11:46:46] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-05-12 11:49:16] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:50:42] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:50:42] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:51:20] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 11:52:14] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:52:14] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-05-12 11:53:16] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-12 11:54:25] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:54:25] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:54:30] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:54:57] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:55:00] [Info] Connect v10.events.data.microsoft.com:443
+[2019-05-12 11:55:01] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-05-12 11:55:21] [Info] Connect roaming.officeapps.live.com:443
+[2019-05-12 11:55:22] [Info] Disconnect roaming.officeapps.live.com:443
+[2019-05-12 11:55:30] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:55:35] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:55:39] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:56:25] [Info] Direct connect www.meituan.com:443
+[2019-05-12 11:56:35] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:56:35] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:56:40] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:56:43] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 11:56:43] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:56:44] [Info] Connect clients4.google.com:443
+[2019-05-12 11:57:06] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:57:40] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:57:45] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 11:58:46] [Info] Disconnect clients4.google.com:443
+[2019-05-12 11:58:48] [Info] Disconnect chrome-devtools-frontend.appspot.com:443
+[2019-05-12 11:59:51] [Info] Connect checkappexec.microsoft.com:443
+[2019-05-12 11:59:53] [Info] Direct connect 36.99.30.104:80
+[2019-05-12 12:00:07] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:00:07] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:00:08] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:09] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:00:10] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:10] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:00:19] [Info] Connect config.edge.skype.com:443
+[2019-05-12 12:00:21] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:21] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:21] [Info] Connect config.edge.skype.com:443
+[2019-05-12 12:00:22] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:22] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:22] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:23] [Info] Connect config.edge.skype.com:443
+[2019-05-12 12:00:24] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:24] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:24] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:24] [Info] Disconnect config.edge.skype.com:443
+[2019-05-12 12:00:26] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:26] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 12:00:27] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 12:00:29] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:00:29] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:00:29] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:00:30] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:31] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:31] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:00:32] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 12:00:32] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:00:32] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:00:32] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:32] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:00:33] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:00:33] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:00:33] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:00:34] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:34] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:00:35] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:37] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:37] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:38] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:00:38] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:38] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:00:39] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:39] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 12:00:40] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:40] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:00:50] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:50] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:51] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:00:52] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:00:52] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 12:00:55] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:00:58] [Info] Disconnect checkappexec.microsoft.com:443
+[2019-05-12 12:00:58] [Info] Connect checkappexec.microsoft.com:443
+[2019-05-12 12:01:00] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:01:00] [Info] Connect checkappexec.microsoft.com:443
+[2019-05-12 12:01:01] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:01:01] [Info] Connect checkappexec.microsoft.com:443
+[2019-05-12 12:01:02] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:01:03] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:01:03] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:01:05] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:01:05] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:01:07] [Info] Disconnect checkappexec.microsoft.com:443
+[2019-05-12 12:01:10] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-05-12 12:01:11] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:01:16] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:01:17] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:01:18] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:01:19] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:01:19] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 12:01:50] [Info] Direct connect c.skconf.f.360.cn:80
+[2019-05-12 12:02:01] [Info] Direct connect 36.99.30.104:80
+[2019-05-12 12:02:05] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:02:06] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:02:06] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:02:12] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:02:13] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:02:13] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 12:02:25] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:02:26] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:02:26] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:02:28] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 12:02:28] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:02:28] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:02:30] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 12:02:30] [Info] Direct connect www.baidu.com:443
+[2019-05-12 12:02:31] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:02:33] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:02:33] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:02:35] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:02:35] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:02:36] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 12:02:36] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:02:37] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:02:37] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:02:39] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:02:39] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:02:39] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:02:41] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:02:41] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:02:46] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:02:48] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:02:50] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:02:50] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:02:51] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:02:51] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:02:52] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-05-12 12:02:52] [Info] Direct connect 36.99.30.104:80
+[2019-05-12 12:03:03] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:03:03] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:03:04] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:04] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:03:06] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:06] [Info] Connect self.events.data.microsoft.com:443
+[2019-05-12 12:03:06] [Info] Disconnect self.events.data.microsoft.com:443
+[2019-05-12 12:03:12] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:03:13] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:03:13] [Info] Direct connect qurl.f.360.cn:80
+[2019-05-12 12:03:13] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:03:13] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:03:15] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:15] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:03:17] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:17] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:03:17] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:03:19] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:03:20] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:03:25] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:25] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:26] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:27] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:27] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:27] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:28] [Info] Direct connect 192.168.34.43:80
+[2019-05-12 12:03:29] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:29] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:30] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:31] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:31] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:31] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:31] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:03:32] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:33] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:34] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:34] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:34] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-05-12 12:03:35] [Info] Direct connect 36.99.30.104:80
+[2019-05-12 12:03:36] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:03:37] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:03:38] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:38] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:38] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:03:40] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:40] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:40] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:40] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:03:40] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:03:42] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:42] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:42] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:42] [Info] Connect disc701-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:42] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-05-12 12:03:43] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:44] [Info] Connect disc701-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:44] [Info] Connect disc701-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:44] [Info] Direct connect dict.youdao.com:80
+[2019-05-12 12:03:45] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:45] [Info] Disconnect disc701-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:48] [Info] Connect disc701-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:50] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:50] [Info] Connect disc701-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:50] [Info] Connect disc701-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:52] [Warn] Proxy server [(a.freess.wtf)] connection refused
+[2019-05-12 12:03:52] [Info] Disconnect disc701-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:52] [Info] Connect geo-prod.do.dsp.mp.microsoft.com:443
+[2019-05-12 12:03:52] [Info] Connect geo-prod.do.dsp.mp.microsoft.com:443

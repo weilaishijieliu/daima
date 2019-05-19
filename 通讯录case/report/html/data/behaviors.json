@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_tel[args0]",
+    "uid" : "62d55b900fbb6fb4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1556592249936,
+      "stop" : 1556592285742,
+      "duration" : 35806
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_email[args0]",
+    "uid" : "1ff4522a46bbea06",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1556592289051,
+      "stop" : 1556592326213,
+      "duration" : 37162
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

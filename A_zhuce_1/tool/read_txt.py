@@ -1,0 +1,15 @@
+# 第一步：定义一个函数继承filename
+def read_txt(filename):
+    filepath = "./page/"+filename
+    with open(filepath, "r", encoding="utf-8")as f:
+        return f.readlines()
+# read_txt('yongli.txt')
+
+if __name__ == '__main__':
+    print(read_txt("login.txt"))
+    print(" - -" * 50)
+    arrs = []
+    for data in read_txt("login.txt"):
+        arrs.append(tuple(data.strip().split(",")))
+
+    print(arrs[1:])

@@ -1,0 +1,9 @@
+test_contact_tel:
+  test_add_phone_001:
+    name: "zhangsan"
+    phone: "1888"
+
+test_contact_email:
+  test_add_email_001:
+    name: "lisi"
+    email: "lisi@163.com"

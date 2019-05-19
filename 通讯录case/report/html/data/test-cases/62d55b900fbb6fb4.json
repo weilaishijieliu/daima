@@ -1,0 +1,60 @@
+{
+  "uid" : "62d55b900fbb6fb4",
+  "name" : "E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_tel[args0]",
+  "fullName" : "scripts.E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_tel[args0]",
+  "historyId" : "bbb5cb66b8e3dab60c9a317f2c42702c",
+  "time" : {
+    "start" : 1556592249936,
+    "stop" : 1556592285742,
+    "duration" : 35806
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "PC-201902241915"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8384-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_tel[args0]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62d55b900fbb6fb4.json",
+  "parameterValues" : [ ]
+}

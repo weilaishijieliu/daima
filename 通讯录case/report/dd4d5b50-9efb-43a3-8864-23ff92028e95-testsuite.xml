@@ -1,0 +1,130 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1556596319306" stop="1556596365086">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1556596319306" status="failed" stop="1556596341964">
+      <name>D:\派森\通讯录case\scripts.test_contace.TestContact.test_contact_tel[args0]</name>
+      <failure>
+        <message>TimeoutException: Message: 
+</message>
+        <stack-trace>self = &lt;scripts.test_contace.TestContact object at 0x000001A5C2DC2E10&gt;, args = {'name': 'zhangsan', 'phone': '1888'}
+
+    @pytest.mark.parametrize('args', analyze_data("contact_data.yaml", "test_contact_tel"))
+    def test_contact_tel(self, args):
+        name = args['name']
+        phone = args['phone']
+        self.page.all_contact.click_add_contact()
+&gt;       self.page.new_add_contact.input_username(name)
+
+scripts\test_contace.py:19: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+page\new_add_contact.py:13: in input_username
+    self.input(name, value)
+base\base_action.py:23: in input
+    self.clear(loc)
+base\base_action.py:19: in clear
+    self.find_element(loc).clear()
+base\base_action.py:11: in find_element
+    return WebDriverWait(self.driver, timeout, poll).until(lambda x:x.find_element(*loc))
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;selenium.webdriver.support.wait.WebDriverWait (session="1812c4bb-35d7-4456-8145-484dcc0d3177")&gt;
+method = &lt;function BaseAction.find_element.&lt;locals&gt;.&lt;lambda&gt; at 0x000001A5C2AC5A60&gt;, message = ''
+
+    def until(self, method, message=''):
+        """Calls the method provided with the driver as an argument until the \
+        return value is not False."""
+        screen = None
+        stacktrace = None
+    
+        end_time = time.time() + self._timeout
+        while True:
+            try:
+                value = method(self._driver)
+                if value:
+                    return value
+            except self._ignored_exceptions as exc:
+                screen = getattr(exc, 'screen', None)
+                stacktrace = getattr(exc, 'stacktrace', None)
+            time.sleep(self._poll)
+            if time.time() &gt; end_time:
+                break
+&gt;       raise TimeoutException(message, screen, stacktrace)
+E       selenium.common.exceptions.TimeoutException: Message:
+
+c:\users\加奇\appdata\local\programs\python\python35\lib\site-packages\selenium\webdriver\support\wait.py:80: TimeoutException</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="992-MainThread"/>
+        <label name="host" value="DESKTOP-3MRIJLF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1556596344026" status="failed" stop="1556596365086">
+      <name>D:\派森\通讯录case\scripts.test_contace.TestContact.test_contact_email[args0]</name>
+      <failure>
+        <message>TimeoutException: Message: 
+</message>
+        <stack-trace>self = &lt;scripts.test_contace.TestContact object at 0x000001A5C2E73390&gt;, args = {'email': 'lisi@163.com', 'name': 'lisi'}
+
+    @pytest.mark.parametrize('args', analyze_data("contact_data.yaml", "test_contact_email"))
+    def test_contact_email(self, args):
+        name = args['name']
+        email = args['email']
+        self.page.all_contact.click_add_contact()
+&gt;       self.page.new_add_contact.input_username(name)
+
+scripts\test_contace.py:29: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+page\new_add_contact.py:13: in input_username
+    self.input(name, value)
+base\base_action.py:23: in input
+    self.clear(loc)
+base\base_action.py:19: in clear
+    self.find_element(loc).clear()
+base\base_action.py:11: in find_element
+    return WebDriverWait(self.driver, timeout, poll).until(lambda x:x.find_element(*loc))
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;selenium.webdriver.support.wait.WebDriverWait (session="69022d8f-a0b8-43f3-a4ba-7c0a89ce2d81")&gt;
+method = &lt;function BaseAction.find_element.&lt;locals&gt;.&lt;lambda&gt; at 0x000001A5C2E168C8&gt;, message = ''
+
+    def until(self, method, message=''):
+        """Calls the method provided with the driver as an argument until the \
+        return value is not False."""
+        screen = None
+        stacktrace = None
+    
+        end_time = time.time() + self._timeout
+        while True:
+            try:
+                value = method(self._driver)
+                if value:
+                    return value
+            except self._ignored_exceptions as exc:
+                screen = getattr(exc, 'screen', None)
+                stacktrace = getattr(exc, 'stacktrace', None)
+            time.sleep(self._poll)
+            if time.time() &gt; end_time:
+                break
+&gt;       raise TimeoutException(message, screen, stacktrace)
+E       selenium.common.exceptions.TimeoutException: Message:
+
+c:\users\加奇\appdata\local\programs\python\python35\lib\site-packages\selenium\webdriver\support\wait.py:80: TimeoutException</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="992-MainThread"/>
+        <label name="host" value="DESKTOP-3MRIJLF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

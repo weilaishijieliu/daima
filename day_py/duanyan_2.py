@@ -1,0 +1,14 @@
+import unittest
+class Test_2(unittest.TestCase):
+    def test01(self):
+        # flag=True
+        # ffff=False
+        # self.assertTrue(flag)
+        # 中文注释：判断对错
+        # self.assertFalse(ffff)
+        # self.assertEqual("hallo","hallo")
+        # self.assertEqual('ha','haloo')
+        # 中文注释：判断是否相等
+        # self.assertIn('ha','hall')
+        # self.assertIn('hl','hall')
+        # 中文注释：前字符串是否被后者包含

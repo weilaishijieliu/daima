@@ -1,0 +1,21 @@
+[ {
+  "uid" : "1ff4522a46bbea06",
+  "name" : "E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_email[args0]",
+  "time" : {
+    "start" : 1556592289051,
+    "stop" : 1556592326213,
+    "duration" : 37162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62d55b900fbb6fb4",
+  "name" : "E:\\Scripts\\通讯录case\\scripts.test_contace.TestContact.test_contact_tel[args0]",
+  "time" : {
+    "start" : 1556592249936,
+    "stop" : 1556592285742,
+    "duration" : 35806
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
